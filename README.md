@@ -38,6 +38,7 @@
     - 4th step : 재귀적 기법으로 현재 상황의 tree 구현 후 각 노드의 entropy 판단, 랜덤 배제 global optimal search
 
 - 실행결과 
+
     ![2](https://user-images.githubusercontent.com/57410044/101596703-ea650280-3a38-11eb-82ce-77db744befdd.PNG)
     ![3](https://user-images.githubusercontent.com/57410044/101596798-184a4700-3a39-11eb-9b4b-92c922d913d4.PNG)
     ![4](https://user-images.githubusercontent.com/57410044/101596833-239d7280-3a39-11eb-94d7-b005489ecaee.PNG)
